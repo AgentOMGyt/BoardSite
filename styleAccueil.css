@@ -81,7 +81,7 @@ html * {
 }
 @keyframes slide-bottom {
     from {
-        margin-bottom: -100%;
+        margin-bottom: -1000%;
     }
     to {
         margin-bottom: 0%;;
